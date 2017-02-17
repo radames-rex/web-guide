@@ -1,2 +1,2 @@
 # Web Guidelines
-> Checklist para ajudar no desenvolvimento progressivo de aplicações para web
+> Checklist to help in the progressive development of web applications
