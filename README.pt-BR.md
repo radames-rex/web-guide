@@ -1,7 +1,7 @@
 # Diretrizes Web
 > Checklist para ajudar no desenvolvimento progressivo de aplicações para web
 
-### O que é ?
+## O que é ?
 
 Detalhes técnicos que os desenvolvedores web devem considerar antes de lançar para produção.
 
