@@ -7,7 +7,7 @@ Talvez muitos dos itens você já deve conhecer. No entanto, algum item foi esqu
 
 ## SEO (Search Engine Optimization)
 
-* Nos links e imagens não esquecer dos atributos ``title`` e ``alt`` respectivamente.
+* Nos links ``<a title="">`` e imagens ``<img alt="" />`` não esquecer dos atributos ``title`` e ``alt`` respectivamente.
 
 * Não redimensionar imagens no HTML.
 
